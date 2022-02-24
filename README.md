@@ -4,3 +4,6 @@ Given the features (details in the "Project" file) of covid-19 patients, the out
 
 The best performing models, to the extent of this dataset, are the _Logistic Regression Classifier_ and the _Support Vector Machine_ with nearly same metrics.
  
+-----------
+
+Web version: https://ali-elganzory.github.io/Covid-19-Mortality/
